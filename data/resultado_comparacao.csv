@@ -1,0 +1,201 @@
+|Text|Sentiment|POLARITY|PREV_SENTIMENT|ERRO
+0|there's mo|positive|0.17858796296296295|positive|CERTO
+1|with story|positive|0.2299258109040718|positive|CERTO
+2|the only t|negative|0.07656447124304266|negative|CERTO
+3|" "" i've be"|positive|0.14520782889426964|positive|CERTO
+4|every year|positive|0.27905776515151515|positive|CERTO
+5|" "" party c"|negative|0.038848039215686275|negative|CERTO
+6| * * * * *|positive|0.12152820270007769|positive|CERTO
+7|this sunda|positive|0.2156098302446617|positive|CERTO
+8|dora ( fer|positive|0.1415538847117794|positive|CERTO
+9|synopsis :|positive|0.16069367140795712|positive|CERTO
+10|mulholland|negative|0.10254920860389613|positive|ERRADO
+11|this remak|positive|0.13275324675324676|positive|CERTO
+12|another fo|negative|0.04950119325119325|negative|CERTO
+13|capsule : |positive|0.1848684210526316|positive|CERTO
+14|there exis|positive|0.14301146384479718|positive|CERTO
+15|dreamworks|positive|0.14742739898989896|positive|CERTO
+16|over 40 ye|negative|0.0707304372127381|negative|CERTO
+17|the crypti|positive|0.14371657112728542|positive|CERTO
+18|starring b|negative|0.011990740740740736|negative|CERTO
+19|" "" crazy/b"|positive|0.043720580186097424|negative|ERRADO
+20|note : som|positive|0.10798214396373909|positive|CERTO
+21|in recent |positive|0.12583031722375987|positive|CERTO
+22|capsule : |negative|-0.12659932659932666|negative|CERTO
+23|based on t|negative|0.09122309494500505|positive|ERRADO
+24|this chris|positive|0.22906039743389142|positive|CERTO
+25|what do yo|positive|0.2773041474654378|positive|CERTO
+26|are you ti|positive|0.1661312803358258|positive|CERTO
+27|what a gre|positive|0.19006547619047623|positive|CERTO
+28|while watc|positive|0.18802083333333336|positive|CERTO
+29|reindeer g|negative|0.020219920029080355|negative|CERTO
+30|good films|positive|0.2428809523809524|positive|CERTO
+31|`we run ti|positive|0.10265420656986922|positive|CERTO
+32|deuce biga|negative|0.1580548730548731|positive|ERRADO
+33|mighty joe|negative|0.06442437770562771|negative|CERTO
+34|" "" the ani"|negative|0.026792635658914734|negative|CERTO
+35|" "" he's ba"|positive|0.09156443368307775|positive|CERTO
+36|having not|positive|0.2113172134882661|positive|CERTO
+37|just how i|positive|0.034317426759287235|negative|ERRADO
+38|warning : |negative|0.0775559523809524|negative|CERTO
+39|a standoff|positive|0.10119588744588744|positive|CERTO
+40|come on ho|negative|0.09808634162447721|positive|ERRADO
+41|it's a fac|positive|0.19366319444444438|positive|CERTO
+42|roberto be|positive|0.15638016105758037|positive|CERTO
+43|national l|positive|0.03181216931216932|negative|ERRADO
+44|maybe this|negative|0.18600713012477718|positive|ERRADO
+45|" "" goodbye"|negative|-0.03504870129870129|negative|CERTO
+46|all throug|negative|0.01912393162393161|negative|CERTO
+47|one of the|negative|0.06966676180961894|negative|CERTO
+48|a remake o|negative|0.08945578231292514|positive|ERRADO
+49|movie revi|negative|-0.005962192569335423|negative|CERTO
+50|so what do|negative|0.06728843669250648|negative|CERTO
+51|susan gran|negative|0.011468253968253978|negative|CERTO
+52|if you're |negative|0.05723733938019652|negative|CERTO
+53|" "" some ho"|negative|0.030834276834276822|negative|CERTO
+54|there was |negative|0.05728838711793256|negative|CERTO
+55|near the e|positive|0.22384237786023503|positive|CERTO
+56|what would|negative|0.013733376233376221|negative|CERTO
+57|plot : upo|negative|0.015202546296296297|negative|CERTO
+58|five girls|negative|0.03477415054563492|negative|CERTO
+59|plot : a b|positive|0.07667316503656708|negative|ERRADO
+60|" "" despera"|negative|0.04067747179192963|negative|CERTO
+61|i'm not qu|positive|0.10406678391053387|positive|CERTO
+62|the first |negative|0.2523351648351648|positive|ERRADO
+63|a slight r|negative|0.13872102842691075|positive|ERRADO
+64|just look |positive|0.0982959595959596|positive|CERTO
+65|that thing|positive|0.20483718230694034|positive|CERTO
+66|some talen|negative|0.08315627472885537|positive|ERRADO
+67|after watc|positive|0.04228752728752727|negative|ERRADO
+68|james l . |positive|0.27517361111111105|positive|CERTO
+69|that's exa|negative|-0.05457711442786068|negative|CERTO
+70|the saint |positive|0.16010672198172196|positive|CERTO
+71|andrew llo|positive|0.1562948162948163|positive|CERTO
+72|earth is a|positive|0.02404493654493655|negative|ERRADO
+73|it is movi|negative|0.057845433255269293|negative|CERTO
+74|" "" there w"|negative|0.06906130268199234|negative|CERTO
+75|up until a|positive|0.12485754985754986|positive|CERTO
+76|as african|positive|0.22040740740740736|positive|CERTO
+77|note to sc|negative|0.06864006864006866|negative|CERTO
+78|" "" spawn """|negative|0.03234126984126982|negative|CERTO
+79|forgive th|negative|0.05579029733959311|negative|CERTO
+80|the ultima|positive|0.20394303902116404|positive|CERTO
+81|a big surp|positive|0.1572344322344322|positive|CERTO
+82|films adap|positive|0.02366334963737561|negative|ERRADO
+83|supposedly|negative|0.07916666666666666|negative|CERTO
+84|the long k|positive|0.10881307746979389|positive|CERTO
+85|it is hard|positive|0.23540276390276388|positive|CERTO
+86|plot : jet|positive|0.12277799581371007|positive|CERTO
+87|susan gran|negative|-0.2886468855218855|negative|CERTO
+88|jay and si|positive|0.13406282906282907|positive|CERTO
+89|i'm curren|negative|0.15121957671957673|positive|ERRADO
+90|no filmmak|positive|0.10932539682539681|positive|CERTO
+91|synopsis :|positive|0.07155172413793104|negative|ERRADO
+92|some movie|negative|0.08894209045724198|positive|ERRADO
+93|" "" knock o"|negative|0.015782312925170086|negative|CERTO
+94|plot : bas|negative|-0.05788961038961038|negative|CERTO
+95|on june 30|positive|0.12210534686341136|positive|CERTO
+96|as any soc|positive|0.11078180104495895|positive|CERTO
+97|except for|negative|-0.0006756756756756747|negative|CERTO
+98|plot : a y|negative|-0.04998649105032083|negative|CERTO
+99|coinciding|negative|0.04247311827956989|negative|CERTO
+100|i had been|positive|0.35165631469979297|positive|CERTO
+101|sometimes |positive|-7.742934572202906e-05|negative|ERRADO
+102|and now th|negative|-0.048656060606060605|negative|CERTO
+103|you don't |negative|-0.06159160731741377|negative|CERTO
+104|the americ|positive|0.11019480519480518|positive|CERTO
+105|i don't ex|negative|0.0749492277270055|negative|CERTO
+106|for better|negative|0.01947712418300654|negative|CERTO
+107|i'm really|negative|-0.055856374807987684|negative|CERTO
+108|capsule : |negative|0.04323376623376625|negative|CERTO
+109|tectonic p|negative|0.05997198366149981|negative|CERTO
+110|plot : a h|positive|0.08930529448621556|positive|CERTO
+111|note : som|positive|0.21417611051369015|positive|CERTO
+112|well , i k|positive|0.15387291280148424|positive|CERTO
+113|instinct i|negative|0.14077932098765428|positive|ERRADO
+114|after endu|negative|-0.00890251723585056|negative|CERTO
+115|part one o|positive|0.0219606512890095|negative|ERRADO
+116|i saw simo|positive|0.2058179723502304|positive|CERTO
+117|the thirte|positive|0.13343946651638955|positive|CERTO
+118|mpaa : not|positive|0.11490073318983932|positive|CERTO
+119|larry flyn|positive|0.20984920634920634|positive|CERTO
+120|susan gran|negative|-0.06785714285714287|negative|CERTO
+121|after havi|positive|0.2653693528693529|positive|CERTO
+122|carry on m|positive|0.2144774531024531|positive|CERTO
+123|close your|positive|0.13653017241379312|positive|CERTO
+124|apparantly|negative|0.035793650793650794|negative|CERTO
+125|the disney|positive|0.12008406432748538|positive|CERTO
+126|lucas was |negative|-0.0029397827092001753|negative|CERTO
+127|when it co|negative|-0.027861111111111104|negative|CERTO
+128|by phil cu|positive|0.1466119528619529|positive|CERTO
+129|my giant i|negative|0.1263180272108844|positive|ERRADO
+130|as with hi|positive|0.19583333333333328|positive|CERTO
+131|i have no |negative|-0.016529394126796694|negative|CERTO
+132|when respe|negative|0.02765916288572538|negative|CERTO
+133|" "" in drea"|negative|-0.04234449760765549|negative|CERTO
+134|" "" somethi"|negative|0.05238870230646546|negative|CERTO
+135|starship t|negative|0.048214285714285716|negative|CERTO
+136|hilarious |positive|0.21057773109243694|positive|CERTO
+137|with more |positive|0.24450603174603178|positive|CERTO
+138|annie wils|negative|-0.02783521303258146|negative|CERTO
+139|it was onc|negative|0.06616465863453815|negative|CERTO
+140|there's so|positive|0.11251909854851032|positive|CERTO
+141|warning : |positive|0.08815827546296295|positive|CERTO
+142|disaster f|positive|0.13037698412698417|positive|CERTO
+143|" "" virus """|negative|0.03626736111111111|negative|CERTO
+144|will hunti|positive|0.20237932159165029|positive|CERTO
+145|susan gran|positive|0.06609195402298851|negative|ERRADO
+146|i think th|positive|0.22903635116598078|positive|CERTO
+147|for those |positive|0.14750258799171842|positive|CERTO
+148|there are |negative|-0.02938988095238095|negative|CERTO
+149|young eins|negative|-0.009362139917695474|negative|CERTO
+150|in intoler|positive|0.039926921263554925|negative|ERRADO
+151|this indep|negative|0.005492424242424245|negative|CERTO
+152|call it to|positive|0.05332357859531772|negative|ERRADO
+153|synopsis :|positive|0.07114117364117363|negative|ERRADO
+154|weir is we|positive|0.2180657305657306|positive|CERTO
+155|in wonder |positive|0.14773401572466993|positive|CERTO
+156|plot : a s|negative|0.07799107142857142|negative|CERTO
+157|john carpe|negative|0.023181393769629067|negative|CERTO
+158|on the bas|positive|0.058585244542691345|negative|ERRADO
+159|starting w|negative|0.09250415056866669|positive|ERRADO
+160|this is th|negative|0.11763199219081572|positive|ERRADO
+161|ever watch|negative|0.04664300815463606|negative|CERTO
+162|the truman|positive|0.09620018088327947|positive|CERTO
+163|best remem|negative|0.08487458619811562|positive|ERRADO
+164|" "" showgir"|negative|-0.013580246913580249|negative|CERTO
+165|-- comedy |positive|0.26284599239144696|positive|CERTO
+166|writers : |negative|0.03345101258894364|negative|CERTO
+167|hello kids|negative|0.06863952020202019|negative|CERTO
+168|the law of|negative|0.06901773950686993|negative|CERTO
+169|call 911 f|positive|0.07031989919313864|negative|ERRADO
+170|at first g|positive|0.11237922705314013|positive|CERTO
+171|watching t|negative|0.05067166563595135|negative|CERTO
+172|ingredient|negative|0.05714756258234519|negative|CERTO
+173|my first p|negative|-0.027737629753758784|negative|CERTO
+174|wild thing|positive|0.22158991228070168|positive|CERTO
+175|talk about|negative|0.08588368153585545|positive|ERRADO
+176|forget get|negative|0.07326784673659677|negative|CERTO
+177|it has bee|positive|0.11226884226884226|positive|CERTO
+178|" "" practic"|negative|0.07282196969696965|negative|CERTO
+179|with his l|positive|0.03854829810712164|negative|ERRADO
+180|54 is dull|negative|-0.004559237931879438|negative|CERTO
+181|bob the ha|positive|0.16693693693693695|positive|CERTO
+182|i know wha|positive|0.10615509082420849|positive|CERTO
+183|corey yuen|positive|0.21642715419501135|positive|CERTO
+184|blade is t|positive|0.1721850048100048|positive|CERTO
+185|plot : der|positive|0.08973606660294972|positive|CERTO
+186|i tried ha|positive|0.12445238095238094|positive|CERTO
+187|so , it's |negative|0.10950502488964027|positive|ERRADO
+188|of course |negative|0.2512268981018981|positive|ERRADO
+189|when bulwo|positive|0.11705687830687832|positive|CERTO
+190|with stars|positive|0.0833406432748538|positive|CERTO
+191|logical ti|positive|0.18260254329004325|positive|CERTO
+192|i know tha|positive|0.09777288188002475|positive|CERTO
+193|play it to|negative|0.014193161119390627|negative|CERTO
+194|synopsis :|negative|0.022924603174603177|negative|CERTO
+195|ingredient|positive|0.18491108564637976|positive|CERTO
+196|romeo is b|negative|0.14544252044252046|positive|ERRADO
+197|one can no|positive|0.08307501441647784|positive|CERTO
+198|why do so |positive|0.09832059938403219|positive|CERTO
+199| ( dreamwo|negative|0.16353076216712578|positive|ERRADO
