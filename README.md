@@ -1,16 +1,15 @@
 
-# Linguagens de Programação - Análise e Predição 🚀
+# A Aplicação de Aprendizado de Máquina na Análise de Linguagens de Programação para o Ensino e Alinhamento com o Mercado de Trabalho 🚀
 
 ## Descrição do Projeto 📋
 
-Este projeto tem como objetivo analisar a popularidade e a evolução das linguagens de programação ao longo dos anos, com base em dados do StackOverflow e GitHub. Além disso, o projeto utiliza modelos preditivos para identificar linguagens promissoras para aprendizado e ensino no futuro.
-
+Este projeto analisa dificuldades no ensino de programação e como alinhar as linguagens às demandas do mercado. Utilizando dados de Stack Overflow, GitHub e Google Trends, além de aprendizado de máquina, o estudo identifica linguagens promissoras para o ensino e recomenda melhorias nos currículos acadêmicos.
 ---
 
 ## 📜 Tabela de Conteúdos
 
 <!--ts-->
-   * [Sobre](##Sobre)
+   * [Sobre](#sobre)
    * [Tabela de Conteúdo](#tabela-de-conteúdo)
    * [Instalação](#instalação)
    * [Como Usar](#como-usar)
@@ -33,7 +32,7 @@ O projeto utiliza dados de desenvolvedores para identificar as linguagens mais u
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/repositorio.git
+   git clone https://github.com/analuizasampaio/repositorio.git
    ```
 
 2. Instale os pacotes necessários:
