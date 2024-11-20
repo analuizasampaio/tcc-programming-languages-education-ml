@@ -32,7 +32,7 @@ O projeto utiliza dados de desenvolvedores para identificar as linguagens mais u
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/analuizasampaio/repositorio.git
+   git clone https://github.com/analuizasampaio/tcc-programming-languages-education-ml
    ```
 
 2. Instale os pacotes necessários:
