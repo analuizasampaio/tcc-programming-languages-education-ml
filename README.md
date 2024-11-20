@@ -10,7 +10,7 @@ Este projeto tem como objetivo analisar a popularidade e a evolução das lingua
 ## 📜 Tabela de Conteúdos
 
 <!--ts-->
-   * [Sobre](#sobre)
+   * [Sobre](##Sobre)
    * [Tabela de Conteúdo](#tabela-de-conteúdo)
    * [Instalação](#instalação)
    * [Como Usar](#como-usar)
