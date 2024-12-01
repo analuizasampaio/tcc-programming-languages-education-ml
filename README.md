@@ -101,7 +101,7 @@ Gráficos de análise e F1-Score das linguagens mais promissoras.
 
 ## Autor ✍️
 
-Feito por Ana Luiza Sampaio.
+Feito por Ana Luiza Sampaio, Kevin Faísca e Wallace Marcolino
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ana%20Luiza%20Sampaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analuizasampaio/)](https://www.linkedin.com/in/analuizasampaio/)
 
